@@ -1,0 +1,52 @@
+{
+	"folders": [
+		{
+			"path": "../../calculator"
+		},
+		{
+			"path": "../../WeatherProject"
+		},
+		{
+			"path": "../../Newsletter-Signup"
+		},
+		{
+			"path": "../../Newsletter-Project"
+		},
+		{
+			"path": "../../Web-Development/todolist-v1"
+		},
+		{
+			"path": "../../Web-Development/Dicee Challenge - Starting Files"
+		},
+		{
+			"path": "../../exercises/Dicee Challenge - Starting Files"
+		},
+		{
+			"path": "../../exercises/weather"
+		},
+		{
+			"path": "../../ejs-challenge"
+		},
+		{
+			"path": "../../FruitProject"
+		},
+		{
+			"path": "../../Web-Development/todolist-v2"
+		},
+		{
+			"path": "../../exercises/todolist-v1"
+		},
+		{
+			"path": "../../Web-Development/Blog-with-Database-Starting-Files/Blog-with-Database-Starting-Files"
+		},
+		{
+			"path": "../../Wiki-API"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Newsletter-Project"
+	}
+}
